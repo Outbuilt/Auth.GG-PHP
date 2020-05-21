@@ -1,7 +1,8 @@
 # Auth.GG Licensing for PHP
 
 This API serves as a layer that simplifies communication between PHP and the server
-Theme designed by colorlib.com under the CC BY 3.0 license
+
+> Theme designed by colorlib.com under the CC BY 3.0 license
 
 > You can access the documentation of the API at https://setup.auth.gg
 
