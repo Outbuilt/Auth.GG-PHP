@@ -6,7 +6,7 @@ if (!isset($_SESSION))
 class AuthGG
 {
 
-    private static $certkey = "sha256//+4v/M3rTRuEkcLqd33NswOW6SFz4GQfyfD3jsGcXWCc=";
+    private static $certkey = "sha256//dOp4gOAYiJ+V8H5DDilNFk0NYDXHjd/SCGZplseYyQU=";
     private static $api = "https://api.auth.gg/php/";
 
     public static function error($message)
